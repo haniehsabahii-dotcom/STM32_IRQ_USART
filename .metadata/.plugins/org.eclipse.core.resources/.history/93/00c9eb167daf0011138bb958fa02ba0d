@@ -110,7 +110,8 @@ int main(void)
     end_time = __HAL_TIM_GET_COUNTER(&htim2);
     HAL_GPIO_WritePin(LED_GPIO_Port, LED_Pin, GPIO_PIN_RESET);
     elapsed_time = end_time - start_time;
-    HAL_Delay(20);
+    HAL_Delay(20); 
+    
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

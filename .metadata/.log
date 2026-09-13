@@ -1,0 +1,32 @@
+!SESSION 2026-09-13 15:36:41.281 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IT
+Framework arguments:  -keyring /Users/hanieh.sabahi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/hanieh.sabahi/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-09-13 15:36:52.535
+!MESSAGE Log4j2 initialized with config file /Users/hanieh.sabahi/Documents/repository/STM32_IRQ_USART/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-09-13 15:36:54.967
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-13 15:37:18.773
+!MESSAGE Indexed 'STM32_IRQ_TIMER' (23 sources, 122 headers) in 3.72 sec: 12,429 declarations; 57,047 references; 1 unresolved inclusions; 95 syntax errors; 256 unresolved names (0.37%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-09-13 15:38:46.287
+!MESSAGE Indexed 'STM32_IRQ_USART' (22 sources, 119 headers) in 1.64 sec: 11,056 declarations; 42,902 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.44%)
+!SESSION 2026-09-13 15:39:00.487 -----------------------------------------------
+eclipse.buildId=Version 2.2.0
+java.version=21.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_IT
+Framework arguments:  -keyring /Users/hanieh.sabahi/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -keyring /Users/hanieh.sabahi/.eclipse_keyring
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-09-13 15:39:07.710
+!MESSAGE Log4j2 initialized with config file /Users/hanieh.sabahi/Documents/repository/STM32_IRQ_USART/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-09-13 15:39:12.122
+!MESSAGE Started RMI Server, listening on port 41337
